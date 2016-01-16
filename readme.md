@@ -1,7 +1,9 @@
 readingTimeLeft.js
 ================
 
-A lightweight and ultra-performant jQuery plugin that tells you how many minutes there are left to read in a piece of text. Check out the [demo]() and send me love.
+A lightweight and ultra-performant jQuery plugin that tells you how many minutes there are left to read in a piece of text. Check out the [demo](http://christophemarois.github.io/readingTimeLeft.js/examples/example.html) and send me love.
+
+![](http://christophemarois.github.io/readingTimeLeft.js/examples/example.png)
 
 Installation
 ----------------
@@ -49,8 +51,8 @@ This will update the document title to the amount of time left to read in realti
 
 `readingTimeLeft()` can be customized with three options:
 
-`stepSelector`: what type of children to look for in the container.  
-`wordsPerMinute`: how many wpm we are expecting the user to read at.  
+`stepSelector`: what type of children to look for in the container.
+`wordsPerMinute`: how many wpm we are expecting the user to read at.
 `eventName`: the name of the event that will be triggered on the container. It is also appended as a namespace for the `scroll` and `resize` events bound on `window`.
 
 ###### Defaults:
