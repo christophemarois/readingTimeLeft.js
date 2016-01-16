@@ -7,7 +7,7 @@ A lightweight and ultra-performant jQuery plugin that tells you how many minutes
 
 Installation
 ----------------
-- Get the latest release my downloading the [master branch](https://github.com/christophemarois/readingTimeLeft.js/archive/master.zip) or by running `bower install readingTimeLeft`
+- Get the latest release my downloading the [master branch](https://github.com/christophemarois/readingTimeLeft.js/archive/master.zip) or by running `bower install reading-time-left`
 - Copy or link to either `readingTimeLeft.js` or `readingTimeLeft.min.js` from the `lib` folder to your folder containing your scripts
 - Add it after you include jQuery
 - You're ready to go!
