@@ -51,8 +51,8 @@ This will update the document title to the amount of time left to read in realti
 
 `readingTimeLeft()` can be customized with three options:
 
-`stepSelector`: what type of children to look for in the container.
-`wordsPerMinute`: how many wpm we are expecting the user to read at.
+`stepSelector`: what type of children to look for in the container.  
+`wordsPerMinute`: how many wpm we are expecting the user to read at.  
 `eventName`: the name of the event that will be triggered on the container. It is also appended as a namespace for the `scroll` and `resize` events bound on `window`.
 
 ###### Defaults:
